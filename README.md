@@ -30,8 +30,9 @@
 
 # Tecnologias
 
-Html 5<br>
-Css 3
+- [HTML](https://www.w3schools.com/html/default.asp)<br>
+- [CSS](https://www.w3schools.com/css/default.asp) <br>
+- [VS Code](https://code.visualstudio.com/)
 <br>
 
 # Autor
