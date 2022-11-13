@@ -17,13 +17,16 @@
 # DEMO 📷
     
 <h1 align="center">
-    <img src="/img/Animacao.gif"/>
+    <img alt="GIF" title="GIF" src="/img/Animacao.gif"/>
 </h1>
 
 # Pré Requisitos
 
-<br>
-<br>
+É bom ter conhecimento básico em:
+- [HTML](https://www.w3schools.com/html/default.asp)<br>
+- [CSS](https://www.w3schools.com/css/default.asp)<br>
+Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
+- [VS Code](https://code.visualstudio.com/) para editar o código.
 <br>
 
 # Rodando Aplicativo
