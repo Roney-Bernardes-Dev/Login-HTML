@@ -5,7 +5,6 @@
 <p align="center">
     <a href="#features">Features</a> .
     <a href="#pré-requisitos">Pré Requisitos</a> .
-    <a href="#rodando-o-app">Rodando Aplicação</a> .
     <a href="#tecnologias">Tecnologias</a> .
     <a href="#autor">Autor</a>
 </p>
@@ -37,7 +36,7 @@
 
 # Autor
 
-Desenvolvido por | Roney Bernardes<br>
+Desenvolvido por | [Roney Bernardes](https://github.com/Roney-Bernardes-Dev)<br>
 Design           | Markzuel
 
 
