@@ -30,8 +30,8 @@
 
 # Tecnologias
 
-Html
-Css
+Html 5<br>
+Css 3
 <br>
 
 # Autor
