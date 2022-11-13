@@ -12,7 +12,13 @@
 
 # Features
 
-- [x] Valida o Usuário e da acesso 
+- [x] Valida o Usuário e da acesso
+
+# DEMO 📷
+    
+<h1 align="center">
+    <img src="/img/Animacao.gif"/>
+</h1>
 
 # Pré Requisitos
 
