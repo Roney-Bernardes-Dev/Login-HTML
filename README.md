@@ -12,8 +12,6 @@
 # Features
 
 - [x] Valida o Usuário e da acesso
-
-# DEMO 📷
     
 <h1 align="center">
     <img alt="GIF" title="GIF" src="/img/Animacao.gif"/>
@@ -21,7 +19,7 @@
 
 # Pré Requisitos
 
-É bom ter conhecimento básico em:
+Conhecimento básico em:
 - [HTML](https://www.w3schools.com/html/default.asp)<br>
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [VS Code](https://code.visualstudio.com/) para editar o código.
