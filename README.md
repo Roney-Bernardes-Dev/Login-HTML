@@ -3,18 +3,18 @@
 </div>
 
 <p align="center">
-    <a href="#features">Features</p> .
-    <a href="#pré-requisitos">Pré Requisitos</p> .
-    <a href="#rodando-o-app">Rodando Aplicação</p> .
-    <a href="#tecnologias">Tecnologias</p> .
-    <a href="#autor">Autor</p>
+    <a href="#features">Features</a> .
+    <a href="#pré-requisitos">Pré Requisitos</a> .
+    <a href="#rodando-o-app">Rodando Aplicação</a> .
+    <a href="#tecnologias">Tecnologias</a> .
+    <a href="#autor">Autor</a>
 </p>
 
+---
+<br>
 # Features
 
-<br>
-<br>
-<br>
+- [x] Valida o Usuário e da acesso 
 
 # Pré Requisitos
 
