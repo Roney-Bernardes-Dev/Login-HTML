@@ -24,25 +24,19 @@
 
 É bom ter conhecimento básico em:
 - [HTML](https://www.w3schools.com/html/default.asp)<br>
-- [CSS](https://www.w3schools.com/css/default.asp)<br>
-Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
+- [CSS](https://www.w3schools.com/css/default.asp)
 - [VS Code](https://code.visualstudio.com/) para editar o código.
-<br>
-
-# Rodando Aplicativo
-
-<br>
-<br>
 <br>
 
 # Tecnologias
 
+Html
+Css
 <br>
-<br>
-<br>
-
 
 # Autor
 
+Desenvolvido por | Roney Bernardes<br>
+Design           | Markzuel
 
 
