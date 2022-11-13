@@ -10,8 +10,6 @@
     <a href="#autor">Autor</a>
 </p>
 
----
-<br>
 # Features
 
 - [x] Valida o Usuário e da acesso 
